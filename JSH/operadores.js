@@ -9,3 +9,10 @@ console.log(resultadoCubo);
 
 const resultadoResto = 29%7;
 console.log(resultadoResto);
+
+let x = 27;
+x++;
+x--;
+x--
+
+console.log(x)
