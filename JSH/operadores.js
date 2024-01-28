@@ -2,10 +2,10 @@ const resultado = 237 + 512;
 console.log(resultado); 
 
 const resultadoAdição = 35-1;
-console.log(resultadoadição);
+console.log(resultadoAdição);
 
 const resultadoCubo = 2**10;
-console.log(resultadocubo);
+console.log(resultadoCubo);
 
 const resultadoResto = 29%7;
-console.log(resultadoCubo);
+console.log(resultadoResto);
